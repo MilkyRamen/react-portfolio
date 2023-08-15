@@ -17,4 +17,5 @@ MIT License
 ChatGPT for help with CSS and bug fixing
 
 ## Links
-* Deployed Application - 
+* Deployed Application - https://gh-pages--johnsreactportfolio.netlify.app
+* Repo Link - https://github.com/MilkyRamen/react-portfolio
