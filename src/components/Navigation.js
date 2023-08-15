@@ -1,12 +1,15 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
+import '../styles/global.css';
 
 const Navigation = () => {
     return (
-        <nav>
-            <a href="#about">About Me</a>
-            <a href="#portfolio">Portfolio</a>
-            <a href="#contact">Contact Me</a>
-            <a href="#resume">Resume</a>
+        <nav className="navigation">
+            <div className="nav-links">
+            <Link to="/">About Me</Link>
+            <Link to="/portfolio">Portfolio</Link>
+            <Link to="/contact">Contact Me</Link>
+            </div>
         </nav>
     );
 };
