@@ -7,7 +7,7 @@ This is my new portfolio using React
 * Responsiveness: Page is designed to be responsive and work across different devices.
 
 ## Technologies Used
-* React and React Router
+* React
 * HTML5
 
 ## License
